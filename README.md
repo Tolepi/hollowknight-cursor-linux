@@ -1,7 +1,7 @@
 # a port of hollow knight cursors
 i really loved these hollow knight cursors (since i love hollow knight in general) so i ported them to linux since i couldnt find any
 
-## 1nstallation methods
+## installation methods
 
 ### 1- zip thing
 1. go to the releases section of this repository.
